@@ -15,8 +15,8 @@ global.owner = [
   
 ];
 
-global.suittag = ['5212414147874'];
-global.prems = ['5212414147874'];
+global.suittag = ['19296660166'];
+global.prems = ['19296660166'];
 
 global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
 global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
